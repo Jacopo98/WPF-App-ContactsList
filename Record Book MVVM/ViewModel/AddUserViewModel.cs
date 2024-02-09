@@ -3,8 +3,10 @@ using Record_Book_MVVM.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 using System.Windows.Input;
 
 namespace Record_Book_MVVM.ViewModel
@@ -33,7 +35,8 @@ namespace Record_Book_MVVM.ViewModel
 		{
 
 			UserManager.AddUser(new User() { Name = Name, Email = Email });
+            MessageBox.Show($"New contact added!");
 
-		}
+        }
 	}
 }

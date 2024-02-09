@@ -43,7 +43,6 @@ namespace Record_Book_MVVM.ViewModel
 			addUserWin.WindowStartupLocation = WindowStartupLocation.CenterOwner;
 			addUserWin.Show();
 
-
 		}
 	}
 }

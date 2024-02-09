@@ -44,5 +44,10 @@ namespace Record_Book_MVVM.Views
 
 
 		}
+
+		private void UserList_SelectionChanged(object sender, SelectionChangedEventArgs e)
+		{
+            MessageBox.Show($"Qui!");
+        }
 	}
 }
