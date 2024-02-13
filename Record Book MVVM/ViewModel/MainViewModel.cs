@@ -38,7 +38,9 @@ namespace Record_Book_MVVM.ViewModel
 		{
 			var mainWindow = obj as Window;
 
-			AddUser addUserWin = new AddUser();
+			AddUser addUserWin = new AddUser(); //Creo la finestra AddUser
+
+			//Assegno valori ad alcuni attributi di Window (finestra AddUser)
 			addUserWin.Owner = mainWindow;
 			addUserWin.WindowStartupLocation = WindowStartupLocation.CenterOwner;
 			addUserWin.Show();

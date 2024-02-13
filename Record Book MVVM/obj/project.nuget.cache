@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9OKykMfsPodGbCEeFqlubS3tks+gobDEM/Dmd6fC35VVSier0Jt5TluR8BLUHb1HxBj4TtDyIjNxdlSVw1aNng==",
+  "dgSpecHash": "SN+b0qXfbKSZvcYFZjtURLm6WRy7d7op+nRrB42DQ9cMhGlYWDKVMTj+D8vHoZdwQp+MmGEG8RUhITSgJh8eUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\silve\\source\\repos\\Prove_Jacopo\\SimpleMVVM\\Contacts\\Record Book MVVM\\Record Book MVVM.csproj",
+  "projectFilePath": "C:\\Users\\silve\\source\\repos\\Prove_Jacopo\\SimpleMVVM\\ContactList\\Record Book MVVM\\Record Book MVVM.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

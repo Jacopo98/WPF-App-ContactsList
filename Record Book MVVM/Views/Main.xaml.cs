@@ -31,7 +31,7 @@ namespace Record_Book_MVVM.Views
 		private void FilterTextBox_TextChanged(object sender, TextChangedEventArgs e)
 		{
 
-			UserList.Items.Filter = FilterMethod;
+			UserList.Items.Filter = FilterMethod; //FilterMethod creato per gestire l'evento della TextBox che varia
 
 
 		}
@@ -49,5 +49,6 @@ namespace Record_Book_MVVM.Views
 		{
             MessageBox.Show($"Qui!");
         }
+
 	}
 }

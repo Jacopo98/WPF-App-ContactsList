@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\silve\source\repos\Prove_Jacopo\SimpleMVVM\Contacts\Record Book MVVM\obj\Debug\net6.0-windows\
+C:\Users\silve\source\repos\Prove_Jacopo\SimpleMVVM\ContactList\Record Book MVVM\obj\Debug\net6.0-windows\
 Record_Book_MVVM
 none
 false
-TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-C:\Users\silve\source\repos\Prove_Jacopo\SimpleMVVM\Contacts\Record Book MVVM\App.xaml
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\silve\source\repos\Prove_Jacopo\SimpleMVVM\ContactList\Record Book MVVM\App.xaml
 2832373059
 
-12189283707
-3881236821914
+91811538442
+194618410957
 Views\AddUser.xaml;Views\Main.xaml;
 
-True
+False
 

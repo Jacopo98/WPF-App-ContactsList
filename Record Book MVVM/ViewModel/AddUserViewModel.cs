@@ -33,7 +33,7 @@ namespace Record_Book_MVVM.ViewModel
 
 		private void AddUser(object obj)
 		{
-
+			//Creo e aggiungo nuovo contatto
 			UserManager.AddUser(new User() { Name = Name, Email = Email });
             MessageBox.Show($"New contact added!");
 

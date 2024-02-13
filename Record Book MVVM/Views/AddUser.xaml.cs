@@ -26,5 +26,11 @@ namespace Record_Book_MVVM.Views
 			this.DataContext = addUserViewModel;
 
 		}
+
+		//Metodo aggiunto come test
+		private void Button_Click(object sender, RoutedEventArgs e)
+		{
+            MessageBox.Show($"Aggiungo nuovo contatto!");
+        }
 	}
 }
